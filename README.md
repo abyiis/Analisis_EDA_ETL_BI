@@ -51,7 +51,7 @@ Una vez procesado el dataset, se calcularon las siguientes métricas e indicador
 ## 4. Estructura del Repositorio
 
 ```text
-├── mediciones_2026_20/     # Archivos de datos de muestreo
+├── medidas_2026_20/        # Archivos de datos de muestreo
 ├── IoT_ETL.ipynb           # Jupyter Notebooks con graficas y dashboard
 └── README.md               # Este archivo
 ```
